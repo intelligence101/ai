@@ -1,0 +1,64 @@
+#paper-title {
+	text-align: center;
+}
+
+#paper-abstract {
+	text-align : justify;
+}
+
+#paper-introduction {
+	text-align: justify;
+}
+
+#paper-Transactions{
+	text-align: justify;
+}
+
+#transaction-image{
+
+}
+
+#transaction-image{
+	width: 300px;
+	height: 300px;
+	align-content: center;
+}
+
+#paper-Timestamp-Server{
+	text-align: justify;
+}
+
+#t-image1{
+	text-align: center;
+}
+
+#paper-conclusion{
+	text-align: justify;
+}
+
+#paper-calculations{
+	text-align: justify;
+}
+
+#paer-privacy{
+	text-align: justify;
+}
+#c&s{
+	text-align: justify;
+}
+
+#spv{
+	text-align: justify;
+}
+
+#Reclaiming-Disk-Space{
+	text-align: justify;
+}
+
+#Incentive{
+	text-align: justify;
+}
+
+#Proof-of-Work{
+	text-align: justify;
+}
